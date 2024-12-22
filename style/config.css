@@ -1,0 +1,26 @@
+* {
+  box-sizing:border-box;
+  user-select:none;
+}
+html {
+  height:100vh;
+}
+body {
+  margin:0;
+  text-align:center;
+}
+.dodger-button {
+  color:white;
+  border-radius:5px;
+  border:none;
+  padding:5px;
+  background-color:dodgerblue;
+  font-weight:bold;
+}
+.point {
+  cursor:pointer;
+}
+.margin {
+  margin-top:100px;
+}
+
