@@ -2,7 +2,7 @@
   "items":[
     {
     "0":{
-      "source":"./images/fridge.jpg",
+      "source":"../images/fridge.jpg",
       "alt":"ثلاجة",
       "price": "420,000"
     },
