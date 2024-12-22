@@ -50,7 +50,7 @@ function createProductCard(imageSrc, price, title) {
   // إرجاع العنصر المُنشأ
   id("main").appendChild(article);
 }
-fetch("../data/products.json").then((data)=>data.json()).then((data)=>{
+fetch("/data/products.json").then((data)=>data.json()).then((data)=>{
   
   for(let x = 0;x<10;x++){
     createProductCard(data.items[0][x].source, data.items[0][x].price,data.items[0][x].alt)
