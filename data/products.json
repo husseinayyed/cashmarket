@@ -1,0 +1,56 @@
+{
+  "items":[
+    {
+    "0":{
+      "source":"../images/fridge.jpg",
+      "alt":"ثلاجة",
+      "price": "420,000"
+    },
+    "1": {
+      "source": "../images/stove.jpg",
+      "alt": "طباخ",
+      "price": "450,000"
+    },
+    "2": {
+      "source": "../images/screen.jpg",
+      "alt": "شاشة",
+      "price": "450,000"
+    },
+    "3": {
+      "source": "../images/elclean.jpg",
+      "alt": "مكنسة كهربائية",
+      "price": "55,000"
+    },
+    "4": {
+      "source": "../images/elclean2.jpg",
+      "alt": "مكنسة كهربائية",
+      "price": "54,000"
+    },
+    "5": {
+      "source": "../images/fireplace.jpg",
+      "alt": "مدفئة كهربائية",
+      "price": "25,000"
+    },
+    "6": {
+      "source": "../images/fireplace.jpg",
+      "alt": "مدفئة كهربائية",
+      "price": "30,000"
+    },
+    "7": {
+      "source": "../images/washing.jpg",
+      "alt": "غسالة",
+      "price": "180,000"
+    },
+    "8": {
+      "source": "../images/crest.jpg",
+      "alt": "خلاط",
+      "price": "35,000"
+    },
+    "9": {
+      "source": "../images/grinder.jpg",
+      "alt": "مفرمة",
+      "price": "20,000"
+    }
+  }
+]
+}
